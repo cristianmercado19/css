@@ -24,6 +24,6 @@ h4{
     background-repeat: no-repeat;
 }
 
-brand-name:after {
+.brand-name:after {
     content: "Nike";
 }
