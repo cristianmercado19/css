@@ -15,71 +15,11 @@ h4{
     color: red;
 }
 
-#DIV_1 {
-    box-sizing: border-box;
-    display: table-cell;
-    height: 68px;
-    text-align: center;
-    text-size-adjust: 100%;
-    vertical-align: middle;
-    width: 58px;
-    perspective-origin: 29px 34px;
-    transform-origin: 29px 34px;
-    font: normal normal 400 normal 16px / 24px OneNikeCurrency, Helvetica, Arial, sans-serif;
-}/*#DIV_1*/
-
-#A_2 {
-    box-sizing: border-box;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-size-adjust: 100%;
-    column-rule-color: rgb(0, 0, 0);
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 16px / 24px OneNikeCurrency, Helvetica, Arial, sans-serif;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_2*/
-
-#SPAN_3 {
-    bottom: 0px;
-    box-sizing: border-box;
-    cursor: pointer;
-    display: inline-block;
-    height: 68px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-align: left;
-    text-indent: 100%;
-    text-size-adjust: 100%;
-    top: 0px;
-    vertical-align: middle;
-    white-space: nowrap;
-    width: 58px;
-    perspective-origin: 29px 34px;
-    transform-origin: 29px 34px;
-    font: normal normal 400 normal 70px / 24px OneNikeCurrency, Helvetica, Arial, sans-serif;
-    overflow: hidden;
-}/*#SPAN_3*/
-
-#SPAN_3:before {
-    bottom: -1px;
-    content: '""';
-    cursor: pointer;
+.esw-logo{
     display: block;
-    height: 70px;
-    left: 0px;
-    position: absolute;
-    right: 0px;
-    text-align: center;
-    text-size-adjust: 100%;
-    top: 34px;
-    white-space: nowrap;
-    width: 58px;
-    perspective-origin: 29px 35px;
-    transform-origin: 29px 35px;
-    font: normal normal 400 normal 70px / 70px OneNikeGlyphs;
-    margin: -35px 0px 0px;
-}/*#SPAN_3:before*/
-
+    width: 200px;
+    height: 100px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/200px-Logo_NIKE.svg.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
