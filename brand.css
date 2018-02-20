@@ -27,3 +27,7 @@ h4{
 .brand-name:after {
     content: "Nike";
 }
+
+.brand-navigation {
+    background-color: crimson;
+}
